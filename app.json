@@ -20,10 +20,7 @@
          "cat_name":"Cat 05",
          "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_05.png"
       },
-      {
-         "cat_name":"Cat 06",
-         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_06.png"
-      }
+      
    ],
    "Products":[
       {
