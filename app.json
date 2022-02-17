@@ -1,29 +1,41 @@
 {
    "Categories":[
       {
-         "cat_name":"Pdf to jpg",
+         "cat_name":"Aaddhar Card Update",
          "img":"https://raw.githubusercontent.com/rupakone/images/main/20220216_231106_0000.png"
       },
       {
-         "cat_name":"Cat 02",
+         "cat_name":"Image To Word/PDF",
          "img":"https://cdn.investintech.com/wp-content/uploads/2021/06/PDF-to-JPG-JPEG-Conversion.jpg"
       },
       {
-         "cat_name":"Cat 03",
+         "cat_name":"Word To PDF",
          "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_03.png"
       },
       {
-         "cat_name":"Cat 04",
+         "cat_name":"GPF Slip",
          "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_04.png"
       },
+      
       {
-         "cat_name":"Cat 05",
+         "cat_name":"Income Tax Return",
          "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_05.png"
       },
       {
-         "cat_name":"Cat 08",
+         "cat_name":"Form-16",
          "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_05.png"
       },
+      
+      {
+         "cat_name":"PDF Editting",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_05.png"
+      },
+      {
+         "cat_name":"Other Services",
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_05.png"
+      },
+      
+      
       
    ],
    "Products":[
