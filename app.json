@@ -119,22 +119,31 @@
          "category":"Cat 02,Cat 04"
       },
        {
-         "product_name":"Product 01 FREE",
+         "product_name":"GPF Slip",
          "price":"$0.15",
          "sku_id":"prod_01_free",
          "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_01_FREE.png",
          "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_01_FREE.psd",
          "is_free":true,
-         "category":"Cat 01"
+         "category":"GPF Slip/Form-16"
       },
       {
-         "product_name":"Product 02 FREE",
+         "product_name":"6 month Pay Slip",
+         "price":"$0.15",
+         "sku_id":"prod_01_free",
+         "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_01_FREE.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_01_FREE.psd",
+         "is_free":true,
+         "category":"GPF Slip/Form-16"
+      },
+      {
+         "product_name":"Pay Slip",
          "price":"$0.27",
          "sku_id":"prod_02_free",
          "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_02_FREE.png",
          "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_02_FREE.psd",
          "is_free":true,
-         "category":"Cat 02"
+         "category":"GPF Slip/Form-16"
       }
    ]
 }
