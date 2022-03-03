@@ -140,5 +140,14 @@
          "is_free":true,
          "category":"GPF Slip/Form-16"
       }
+      {
+         "product_name":"PMSP Form",
+         "price":"$0.27",
+         "sku_id":"prod_02_free",
+         "img_url":"https://raw.githubusercontent.com/rupakone/images/main/Pay%2017%20Slip%20f.png",
+         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_02_FREE.psd",
+         "is_free":true,
+         "category":"Other Services"
+      }
    ]
 }
