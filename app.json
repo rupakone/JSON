@@ -36,7 +36,7 @@
          "price":"₹ 250",
          "sku_id":"itax",
          "img_url":"https://raw.githubusercontent.com/rupakone/images/main/income%20Tax%20Returns%20Filling%20In%20Just%20Rs%202500.png",
-         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_01.psd",
+         "product_url":"gs://crpf-digital.appspot.com/Landing page for aadhar.pdf",
          "is_free":false,
          "category":"Income Tax Return"
       },
