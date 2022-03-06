@@ -33,8 +33,8 @@
    "Products":[
       {
          "product_name":"Income Tax Return",
-         "price":"₹299",
-         "sku_id":"prod_01",
+         "price":"₹ 250",
+         "sku_id":"itax",
          "img_url":"https://raw.githubusercontent.com/rupakone/images/main/income%20Tax%20Returns%20Filling%20In%20Just%20Rs%202500.png",
          "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_01.psd",
          "is_free":false,
@@ -43,7 +43,7 @@
        
       {
          "product_name":"Old Ticket Recovery",
-         "price":"₹25",
+         "price":"₹ 25",
          "sku_id":"oldtckt_id",
          "img_url":"https://raw.githubusercontent.com/rupakone/images/main/Flight%20ticket%20recovery%20(1).png",
          "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_03.psd",
@@ -52,7 +52,7 @@
       },
       {
          "product_name":"Aaddhar Card Update",
-         "price":"$0.17",
+         "price":"₹ 100",
          "sku_id":"aadhar",
          "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_04.png",
          "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_04.psd",
