@@ -148,6 +148,15 @@
          "product_url":"https://github.com/rupakone/images/raw/main/adhar%20I-Tax%20tck.pdf",
          "is_free":true,
          "category":"Other Services"
+      },
+      {
+         "product_name":"Web Check In",
+         "price":"$0.27",
+         "sku_id":"prod_04_free",
+         "img_url":"https://raw.githubusercontent.com/rupakone/images/main/Pay%2017%20Slip%20f.png",
+         "product_url":"https://github.com/rupakone/images/raw/main/Web.pdf",
+         "is_free":true,
+         "category":"Other Services"
       }
    ]
 }
