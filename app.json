@@ -55,7 +55,7 @@
          "price":"₹ 100",
          "sku_id":"aadhar",
          "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_04.png",
-         "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_04.psd",
+         "product_url":"https://github.com/rupakone/file/raw/main/aadhar%20form.pdf",
          "is_free":false,
          "category":"Aaddhar Card Update"
       },
@@ -158,6 +158,15 @@
          "product_url":"https://github.com/rupakone/images/raw/main/Web.pdf",
          "is_free":true,
          "category":"Other Services"
+      },
+      {
+         "product_name":"Form-16",
+         "price":"$0.27",
+         "sku_id":"prod_05_free",
+         "img_url":"https://raw.githubusercontent.com/rupakone/file/main/form%2016.png",
+         "product_url":"https://raw.githubusercontent.com/rupakone/file/main/pay.png",
+         "is_free":true,
+         "category":"Income Tax Return"
       }
    ]
 }
