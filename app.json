@@ -163,7 +163,7 @@
          "product_name":"Form-16",
          "price":"$0.27",
          "sku_id":"prod_05_free",
-         "img_url":"https://raw.githubusercontent.com/rupakone/file/main/form%2016.png?token=GHSAT0AAAAAABSJB7TLEEQDVWEJHRDSEP2GYRHJJ5Q",
+         "img_url":"https://raw.githubusercontent.com/rupakone/file/main/form%2016.png",
          "product_url":"https://raw.githubusercontent.com/rupakone/file/main/pay.png",
          "is_free":true,
          "category":"Income Tax Return"
