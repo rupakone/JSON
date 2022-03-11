@@ -46,7 +46,7 @@
          "price":"₹ 25",
          "sku_id":"oldtkt",
          "img_url":"https://raw.githubusercontent.com/rupakone/images/main/Flight%20ticket%20recovery%20(1).png",
-         "product_url":"https://github.com/rupakone/file/blob/main/payy.jpeg",
+         "product_url":"https://github.com/rupakone/file/blob/main/pay.pdf",
          "is_free":false,
          "category":"Other Services"
       },
@@ -65,7 +65,7 @@
          "price":"$0.15",
          "sku_id":"prod_01_free",
          "img_url":"https://raw.githubusercontent.com/rupakone/images/main/GPF%20Slip%20f.png",
-         "product_url":"https://github.com/rupakone/file/blob/main/payy.jpeg",
+         "product_url":"https://github.com/rupakone/file/blob/main/pay.pdf",
          "is_free":true,
          "category":"GPF Slip/Form-16"
       },
@@ -74,7 +74,7 @@
          "price":"$0.15",
          "sku_id":"prod_01_free",
          "img_url":"https://raw.githubusercontent.com/rupakone/images/main/Six%20month%20Slip.png",
-         "product_url":"https://github.com/rupakone/file/blob/main/payy.jpeg",
+         "product_url":"https://github.com/rupakone/file/blob/main/pay.pdf",
          "is_free":true,
          "category":"GPF Slip/Form-16"
       },
@@ -83,7 +83,7 @@
          "price":"$0.27",
          "sku_id":"prod_02_free",
          "img_url":"https://raw.githubusercontent.com/rupakone/images/main/Pay%2017%20Slip%20f.png",
-         "product_url":"https://github.com/rupakone/file/blob/main/payy.jpeg",
+         "product_url":"https://github.com/rupakone/file/blob/main/pay.pdf",
          "is_free":true,
          "category":"GPF Slip/Form-16"
       },
