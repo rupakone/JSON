@@ -65,7 +65,7 @@
          "price":"$0.15",
          "sku_id":"prod_01_free",
          "img_url":"https://raw.githubusercontent.com/rupakone/images/main/GPF%20Slip%20f.png",
-         "product_url":"https://raw.githubusercontent.com/rupakone/file/main/pay.png",
+         "product_url":"https://github.com/rupakone/file/blob/main/pay.png",
          "is_free":true,
          "category":"GPF Slip/Form-16"
       },
