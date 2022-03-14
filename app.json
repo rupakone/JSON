@@ -21,6 +21,10 @@
          "cat_name":"Income Tax Return",
          "img":"https://raw.githubusercontent.com/rupakone/images/main/I-Tax%20Returns%20Filling%20cat%20photo.png"
       },
+      {
+         "cat_name":"Forms",
+         "img":"https://raw.githubusercontent.com/rupakone/images/main/I-Tax%20Returns%20Filling%20cat%20photo.png"
+      },
                 
       {
          "cat_name":"Other Services",
@@ -113,7 +117,16 @@
          "img_url":"https://raw.githubusercontent.com/rupakone/images/main/form16.png",
          "product_url":"https://github.com/rupakone/images/raw/main/contact.pdf",
          "is_free":true,
-         "category":"Income Tax Return"
+         "category":"Income Tax Return,Forms"
+      },
+      {
+         "product_name":"Form-16",
+         "price":"$0.27",
+         "sku_id":"prod_05_free",
+         "img_url":"https://raw.githubusercontent.com/rupakone/images/main/form16.png",
+         "product_url":"https://github.com/rupakone/file/raw/main/FRESH%20NOMINATION%20FORM.docx",
+         "is_free":true,
+         "category":"Forms"
       }
    ]
 }
