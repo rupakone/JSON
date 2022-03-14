@@ -23,7 +23,7 @@
       },
       {
          "cat_name":"Forms",
-         "img":"https://raw.githubusercontent.com/rupakone/images/main/I-Tax%20Returns%20Filling%20cat%20photo.png"
+         "img":"https://raw.githubusercontent.com/rupakone/images/main/FORMS.png"
       },
                 
       {
@@ -123,7 +123,7 @@
          "product_name":"Nomination Form",
          "price":"$0.27",
          "sku_id":"prod_05_free",
-         "img_url":"https://raw.githubusercontent.com/rupakone/images/main/form16.png",
+         "img_url":"https://raw.githubusercontent.com/rupakone/images/main/nomination%20form%20cover.png",
          "product_url":"https://github.com/rupakone/file/raw/main/FRESH%20NOMINATION%20FORM.docx",
          "is_free":true,
          "category":"Forms"
