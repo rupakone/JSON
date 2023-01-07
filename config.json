@@ -1,0 +1,31 @@
+[
+  {
+  "url": "https://jkbose.nic.in/pdf/Mathematics.pdf",
+  "icon": 1,
+  "name": "Math"
+}, {
+  "url": "https://jkbose.nic.in/pdf/MUSIC.pdf",
+  "icon": 2,
+  "name": "Music"
+},  {
+  "url": "https://jkbose.nic.in/pdf/Psychology.pdf",
+  "icon": 3,
+  "name": "Psychology"
+}, {
+  "url": "https://jkbose.nic.in/pdf/PHILOSOPHY.pdf",
+  "icon": 4,
+  "name": "Philosophy"
+}, {
+  "url": "https://jkbose.nic.in/pdf/PHYSICALEDUCATION.pdf",
+  "icon": 5,
+  "name": "Physical Educaton"
+}, {
+  "url": "https://jkbose.nic.in/pdf/PHYSICS.pdf",
+  "icon": 6,
+  "name": "Physics"
+}, {
+  "url": "https://jkbose.nic.in/pdf/POLITICALSCIENCE.pdf",
+  "icon": 7,
+  "name": "Political Science"
+}
+]
