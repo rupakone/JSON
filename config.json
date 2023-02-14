@@ -1,25 +1,62 @@
-[
-  {
-    "icon": 1,
-    "name": "YOUR PDF NAME",
-    "url": "https://yourpdflink.pdf/"
+{
+  "category_details": {
+    "Class 9th": [
+      {
+        "topic_name": "English Grammer Class 9th"
+      },
+      {
+        "topic_name": "Science for Class 9th"
+      }
+    ]
   },
-  
-  {
-    "icon": 2,
-    "name": "YOUR PDF NAME",
-    "url": "https://yourpdflink.pdf/"
-  },
-
-  {
-    "icon": 3,
-    "name": "YOUR PDF NAME",
-    "url": "https://yourpdflink.pdf/"
-  },
-
-  {
-    "icon": 4,
-    "name": "YOUR PDF NAME",
-    "url": "https://yourpdflink.pdf/"
+  "category_names": [
+    {
+      "category_image": "https://thumbs.dreamstime.com/b/physics-icon-vector-sign-symbol-isolated-white-background-logo-concept-your-web-mobile-app-design-134640352.jpg",
+      "category_title": "Class 3rd"
+    },
+    {
+      "category_image": "https://thumbs.dreamstime.com/b/physics-icon-vector-sign-symbol-isolated-white-background-logo-concept-your-web-mobile-app-design-134640352.jpg",
+      "category_title": "Class 4th"
+    },
+    {
+      "category_image": "https://thumbs.dreamstime.com/b/physics-icon-vector-sign-symbol-isolated-white-background-logo-concept-your-web-mobile-app-design-134640352.jpg",
+      "category_title": "Class 5th"
+    },
+    {
+      "category_image": "https://thumbs.dreamstime.com/b/physics-icon-vector-sign-symbol-isolated-white-background-logo-concept-your-web-mobile-app-design-134640352.jpg",
+      "category_title": "Class 6th"
+    },
+    {
+      "category_image": "https://thumbs.dreamstime.com/b/physics-icon-vector-sign-symbol-isolated-white-background-logo-concept-your-web-mobile-app-design-134640352.jpg",
+      "category_title": "Class 7th"
+    },
+    {
+      "category_image": "https://thumbs.dreamstime.com/b/physics-icon-vector-sign-symbol-isolated-white-background-logo-concept-your-web-mobile-app-design-134640352.jpg",
+      "category_title": "Class 8th"
+    },
+    {
+      "category_image": "https://thumbs.dreamstime.com/b/physics-icon-vector-sign-symbol-isolated-white-background-logo-concept-your-web-mobile-app-design-134640352.jpg",
+      "category_title": "Class 9th"
+    }
+  ],
+  "topic_details": {
+    "English Grammer Class 9th": [
+      {
+        "topic_title": "Large Size Book",
+        "topic_url": "https://jkbose.nic.in/PageDoc/6372215586153105759th%20POL%20SC.pdf"
+      },
+      {
+        "topic_title": "Topic 2 English Grammer",
+        "topic_url": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
+      },
+      {
+        "topic_title": "Topic 3 English Grammer",
+        "topic_url": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
+      },
+      {
+        "topic_title": "Topic 4 English Grammer",
+        "topic_url": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf"
+      }
+    ]
   }
-]
+}
